@@ -1,0 +1,2 @@
+# LLMprojectforCSE299
+PdfAnalyzarforBANGLA
