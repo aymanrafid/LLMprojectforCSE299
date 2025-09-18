@@ -1,0 +1,133 @@
+2025-08-22 12:38:58,362 - INFO - Tesseract path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-08-22 13:12:39,517 - INFO - Tesseract path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-08-22 13:12:39,554 - INFO - LangChain components initialized successfully
+2025-08-22 13:12:39,575 - INFO - Starting text extraction from 'Book Maktubat Sharif 60 Page.pdf'...
+2025-08-22 13:12:39,576 - INFO - Processing 60 page(s)...
+2025-08-22 13:13:56,541 - INFO - Starting LangChain summarization. Text length: 110333 characters
+2025-08-22 13:13:56,644 - INFO - Approximate token count: 134217 tokens
+2025-08-22 13:13:57,362 - INFO - Split text into 38 chunks
+2025-08-22 13:13:57,364 - INFO - Processing batch 1/13 with 3 chunks
+2025-08-22 13:14:32,186 - INFO - Processing batch 2/13 with 3 chunks
+2025-08-22 13:15:06,899 - INFO - Processing batch 3/13 with 3 chunks
+2025-08-22 13:15:36,993 - INFO - Processing batch 4/13 with 3 chunks
+2025-08-22 13:16:11,099 - INFO - Processing batch 5/13 with 3 chunks
+2025-08-22 13:16:41,541 - INFO - Processing batch 6/13 with 3 chunks
+2025-08-22 13:17:14,795 - INFO - Processing batch 7/13 with 3 chunks
+2025-08-22 13:17:46,546 - INFO - Processing batch 8/13 with 3 chunks
+2025-08-22 13:18:17,151 - INFO - Processing batch 9/13 with 3 chunks
+2025-08-22 13:18:46,656 - INFO - Processing batch 10/13 with 3 chunks
+2025-08-22 13:19:17,685 - INFO - Processing batch 11/13 with 3 chunks
+2025-08-22 13:19:49,734 - INFO - Processing batch 12/13 with 3 chunks
+2025-08-22 13:20:22,391 - INFO - Processing batch 13/13 with 2 chunks
+2025-08-22 13:20:52,309 - INFO - Generated 13 batch summaries
+2025-08-22 13:20:52,309 - INFO - Combining summaries in stages...
+2025-08-22 13:22:44,174 - INFO - Setting up LangChain Q&A system...
+2025-08-22 13:22:44,493 - INFO - Split text into 41 chunks for Q&A
+2025-08-22 13:22:52,476 - INFO - Loading faiss with AVX512 support.
+2025-08-22 13:22:52,477 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-08-22 13:22:52,478 - INFO - Loading faiss with AVX2 support.
+2025-08-22 13:22:52,770 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 13:22:54,800 - INFO - Q&A system setup complete
+2025-08-22 13:22:54,807 - INFO - Vectorstore saved to D:/Download BackUp/bangla_pdf_app/bangla_pdf_app/output\vectorstore_20250822_132254
+2025-08-22 13:22:54,809 - INFO - Memory saved to D:/Download BackUp/bangla_pdf_app/bangla_pdf_app/output\memory_20250822_132254.json
+2025-08-22 23:09:35,482 - INFO - Tesseract path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-08-22 23:09:35,542 - INFO - LangChain components initialized successfully
+2025-08-22 23:09:35,579 - INFO - Starting text extraction from 'Book Maktubat Sharif 60 Page.pdf'...
+2025-08-22 23:09:35,580 - INFO - Processing 60 page(s)...
+2025-08-22 23:10:53,397 - INFO - Starting LangChain summarization. Text length: 110333 characters
+2025-08-22 23:10:53,486 - INFO - Approximate token count: 134217 tokens
+2025-08-22 23:10:54,064 - INFO - Split text into 38 chunks
+2025-08-22 23:10:54,066 - INFO - Processing batch 1/13 with 3 chunks
+2025-08-22 23:11:27,884 - INFO - Processing batch 2/13 with 3 chunks
+2025-08-22 23:12:01,871 - INFO - Processing batch 3/13 with 3 chunks
+2025-08-22 23:12:32,187 - INFO - Processing batch 4/13 with 3 chunks
+2025-08-22 23:13:06,000 - INFO - Processing batch 5/13 with 3 chunks
+2025-08-22 23:13:36,661 - INFO - Processing batch 6/13 with 3 chunks
+2025-08-22 23:14:09,123 - INFO - Processing batch 7/13 with 3 chunks
+2025-08-22 23:14:41,455 - INFO - Processing batch 8/13 with 3 chunks
+2025-08-22 23:15:14,713 - INFO - Processing batch 9/13 with 3 chunks
+2025-08-22 23:15:46,562 - INFO - Processing batch 10/13 with 3 chunks
+2025-08-22 23:16:18,567 - INFO - Processing batch 11/13 with 3 chunks
+2025-08-22 23:16:55,295 - INFO - Processing batch 12/13 with 3 chunks
+2025-08-22 23:17:27,725 - INFO - Processing batch 13/13 with 2 chunks
+2025-08-22 23:17:55,812 - INFO - Generated 13 batch summaries
+2025-08-22 23:17:55,813 - INFO - Combining summaries in stages...
+2025-08-22 23:19:54,718 - INFO - Setting up LangChain Q&A system...
+2025-08-22 23:19:54,996 - INFO - Split text into 41 chunks for Q&A
+2025-08-22 23:20:03,177 - INFO - Loading faiss with AVX512 support.
+2025-08-22 23:20:03,179 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-08-22 23:20:03,180 - INFO - Loading faiss with AVX2 support.
+2025-08-22 23:20:03,549 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-22 23:20:05,588 - INFO - Q&A system setup complete
+2025-08-22 23:20:05,606 - INFO - Vectorstore saved to D:/Download BackUp/bangla_pdf_app/bangla_pdf_app/output\vectorstore_20250822_232005
+2025-08-22 23:20:05,607 - INFO - Memory saved to D:/Download BackUp/bangla_pdf_app/bangla_pdf_app/output\memory_20250822_232005.json
+2025-08-23 06:53:08,184 - INFO - Tesseract path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-08-23 06:53:08,215 - INFO - LangChain components initialized successfully
+2025-08-23 06:53:08,219 - INFO - Starting text extraction from 'Book Maktubat Sharif 60 Page.pdf'...
+2025-08-23 06:53:08,220 - INFO - Processing 60 page(s)...
+2025-08-23 06:54:15,362 - INFO - Starting LangChain summarization. Text length: 110333 characters
+2025-08-23 06:54:15,406 - INFO - Approximate token count: 134217 tokens
+2025-08-23 06:54:15,694 - INFO - Split text into 38 chunks
+2025-08-23 06:54:15,695 - INFO - Processing batch 1/13 with 3 chunks
+2025-08-23 06:54:51,638 - INFO - Processing batch 2/13 with 3 chunks
+2025-08-23 06:55:22,978 - INFO - Processing batch 3/13 with 3 chunks
+2025-08-23 06:55:51,800 - INFO - Processing batch 4/13 with 3 chunks
+2025-08-23 06:56:23,422 - INFO - Processing batch 5/13 with 3 chunks
+2025-08-23 06:56:51,153 - INFO - Processing batch 6/13 with 3 chunks
+2025-08-23 06:57:23,584 - INFO - Processing batch 7/13 with 3 chunks
+2025-08-23 06:57:53,374 - INFO - Processing batch 8/13 with 3 chunks
+2025-08-23 06:58:26,679 - INFO - Processing batch 9/13 with 3 chunks
+2025-08-23 06:58:57,418 - INFO - Processing batch 10/13 with 3 chunks
+2025-08-23 06:59:28,594 - INFO - Processing batch 11/13 with 3 chunks
+2025-08-23 07:00:01,299 - INFO - Processing batch 12/13 with 3 chunks
+2025-08-23 07:00:32,720 - INFO - Processing batch 13/13 with 2 chunks
+2025-08-23 07:00:58,561 - INFO - Generated 13 batch summaries
+2025-08-23 07:00:58,562 - INFO - Combining summaries in stages...
+2025-08-23 07:03:10,764 - INFO - Setting up LangChain Q&A system...
+2025-08-23 07:03:10,966 - INFO - Split text into 41 chunks for Q&A
+2025-08-23 07:03:18,078 - INFO - Loading faiss with AVX512 support.
+2025-08-23 07:03:18,080 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-08-23 07:03:18,081 - INFO - Loading faiss with AVX2 support.
+2025-08-23 07:03:18,112 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-23 07:03:20,130 - INFO - Q&A system setup complete
+2025-08-23 07:03:20,134 - INFO - Vectorstore saved to D:/Download BackUp/bangla_pdf_app/bangla_pdf_app/output\vectorstore_20250823_070320
+2025-08-23 07:03:20,147 - INFO - Memory saved to D:/Download BackUp/bangla_pdf_app/bangla_pdf_app/output\memory_20250823_070320.json
+2025-08-23 09:42:05,585 - INFO - Tesseract path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-08-23 09:42:05,662 - INFO - LangChain components initialized successfully
+2025-08-23 09:42:05,703 - INFO - Starting text extraction from 'Book Maktubat Sharif 60 Page.pdf'...
+2025-08-23 09:42:05,704 - INFO - Processing 60 page(s)...
+2025-08-23 09:43:13,756 - INFO - Starting LangChain summarization. Text length: 110333 characters
+2025-08-23 09:43:13,812 - INFO - Approximate token count: 134217 tokens
+2025-08-23 09:43:14,101 - INFO - Split text into 38 chunks
+2025-08-23 09:43:14,102 - INFO - Processing batch 1/13 with 3 chunks
+2025-08-23 09:43:51,736 - INFO - Processing batch 2/13 with 3 chunks
+2025-08-23 09:44:34,466 - INFO - Processing batch 3/13 with 3 chunks
+2025-08-23 09:45:08,079 - INFO - Processing batch 4/13 with 3 chunks
+2025-08-23 09:46:01,847 - INFO - Processing batch 5/13 with 3 chunks
+2025-08-23 09:46:31,881 - INFO - Processing batch 6/13 with 3 chunks
+2025-08-23 09:47:05,221 - INFO - Processing batch 7/13 with 3 chunks
+2025-08-23 09:48:05,192 - INFO - Processing batch 8/13 with 3 chunks
+2025-08-23 09:48:38,307 - INFO - Processing batch 9/13 with 3 chunks
+2025-08-23 09:49:08,388 - INFO - Processing batch 10/13 with 3 chunks
+2025-08-23 09:49:45,336 - INFO - Processing batch 11/13 with 3 chunks
+2025-08-23 09:50:20,357 - INFO - Processing batch 12/13 with 3 chunks
+2025-08-23 09:50:57,419 - INFO - Processing batch 13/13 with 2 chunks
+2025-08-23 09:51:24,668 - INFO - Generated 13 batch summaries
+2025-08-23 09:51:24,669 - INFO - Combining summaries in stages...
+2025-08-23 09:53:16,212 - INFO - Setting up LangChain Q&A system...
+2025-08-23 09:53:16,533 - INFO - Split text into 41 chunks for Q&A
+2025-08-23 09:53:24,037 - INFO - Loading faiss with AVX512 support.
+2025-08-23 09:53:24,038 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-08-23 09:53:24,039 - INFO - Loading faiss with AVX2 support.
+2025-08-23 09:53:24,307 - INFO - Successfully loaded faiss with AVX2 support.
+2025-08-23 09:53:26,340 - INFO - Q&A system setup complete
+2025-08-23 09:53:26,360 - INFO - Vectorstore saved to D:/Download BackUp/bangla_pdf_app/bangla_pdf_app/output\vectorstore_20250823_095326
+2025-08-23 09:53:26,362 - INFO - Memory saved to D:/Download BackUp/bangla_pdf_app/bangla_pdf_app/output\memory_20250823_095326.json
+2025-08-23 09:59:40,296 - INFO - Tesseract path set to: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-08-23 09:59:40,315 - INFO - LangChain components initialized successfully
+2025-08-23 09:59:40,372 - INFO - Starting text extraction from 'ZZNN-2024-banglabook.org.pdf'...
+2025-08-23 09:59:40,374 - INFO - Processing 142 page(s)...

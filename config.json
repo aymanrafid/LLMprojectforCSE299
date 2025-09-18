@@ -1,0 +1,15 @@
+{
+    "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "ocr_dpi": 300,
+    "max_input_tokens": 900000,
+    "max_tokens_per_chunk": 100000,
+    "max_output_tokens": 8192,
+    "model_name": "models/gemini-2.0-flash",
+    "batch_size": 3,
+    "rate_limit_delay": 2.0,
+    "batch_delay": 5.0,
+    "chunk_delay": 3.0,
+    "retry_attempts": 3,
+    "retry_min_wait": 30,
+    "retry_max_wait": 90
+}
