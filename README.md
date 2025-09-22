@@ -170,7 +170,9 @@ python bangla_pdf_ui.py
 - LangChain community for the framework
 - FAISS team for efficient similarity search
 - North South University for supporting this project
-
+  
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ## Contributing
