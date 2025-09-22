@@ -159,7 +159,7 @@ python bangla_pdf_ui.py
    - Retrieves relevant passages for each question
    - Generates context-aware answers using Gemini AI
 
-## Team Members
+## Team Member
 
 - **Kazi Ayman Rafid Sachcha**
 
@@ -171,9 +171,7 @@ python bangla_pdf_ui.py
 - FAISS team for efficient similarity search
 - North South University for supporting this project
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
